@@ -75,11 +75,25 @@ abline(simp)
 summary.lm(simp)
 ```
 
-## Compare all models that predict LENGTH other than NECK. Then order them from worst to best by its value of Adjusted-Rsquared (bigger is better), or by RSE (residual standard error) where smaller is better. 
+The adjusted r squared value for weight is 
+
+
+## Discusion and conclusion
+
+After running the following models( weight, chest, age.head width, headlength, and neck) i've found the r squared value for them and have arranged them from the highest value to the lowest starting with
 
 
 
-## Compare all models that predict LENGTH other than NECK. Then order them from worst to best by its value of Adjusted-Rsquared (bigger is better), or by RSE (residual standard error) where smaller is better. 
+headlength = .8434
 
+chest = .7869
+
+neck = .7476
+
+weight = .7423
+
+headwidth = .5321
+
+age = .5073
 
 
