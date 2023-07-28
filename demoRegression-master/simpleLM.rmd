@@ -96,4 +96,4 @@ headwidth = .5321
 
 age = .5073
 
-
+so based on this data i conclude that the headlength  model is the best because it has the highest r squared score
